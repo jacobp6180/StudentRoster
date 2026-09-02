@@ -1,0 +1,13 @@
+# Compiled binaries and object files
+student-roster
+student-roster.exe
+*.o
+*.obj
+*.exe
+
+# IDE and operating-system files
+.vscode/
+.vs/
+*.user
+.DS_Store
+Thumbs.db
